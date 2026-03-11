@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @anirban-rex
-- 👀 I’m interested in game development
+- 👋 Hi, I’m Anirban
+- 👀 I’m interested in AI/ML and game development
 - 🌱 I’m currently learning 2D RPG game dev
 - 💞️ I’m looking to collaborate on open source porjects
-- 📫 How to reach me ...
 
 <!---
 anirban-rex/anirban-rex is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
