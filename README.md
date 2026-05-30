@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anirban
 - 👀 I’m working as an engineer in AI/ML space
-- 🌱 I’m currently learning 2D RPG game dev
+- 🌱 Currently learning 2D RPG game dev
 - 💞️ I’m looking to collaborate on open source porjects
 
 <!---
